@@ -7,7 +7,7 @@ tags:
 cover: https://apac-cloudflare-r2.img.1l1.icu/2024/05/12/664032af86c08.webp
 ---
 默认的华为桌面是真的不好用 又不给改，难受得很
-新版系统可以通过按照含BUG的手机管家切换，但我的设备是基于AOSP9的HarmonyOS 2系统，无法安装
+新版系统可以通过安装含BUG的手机管家切换，但我的设备是基于AOSP9的HarmonyOS 2系统，无法安装
 故研究了这个方法来替代华为桌面
 
 ## 前置条件
