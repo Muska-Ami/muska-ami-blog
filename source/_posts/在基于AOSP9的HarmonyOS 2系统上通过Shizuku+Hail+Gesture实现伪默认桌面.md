@@ -36,3 +36,8 @@ adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.s
 应用筛选器选到 `系统` ，勾选 `华为桌面`
 ![Hail 华为桌面](https://apac-cloudflare-r2.img.1l1.icu/2024/05/12/663fa4e720530.webp)
 返回首页，点击右下角冻结华为桌面
+
+## 个人体验
+
+基本上能替代华为的构思桌面，但是重启后需要重新激活，所以不适合作为主力使用
+目前用的是Pixel 7 Pro做主力机，华为的自己修好了基本上没用过，当个备用机使
