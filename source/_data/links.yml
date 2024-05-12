@@ -49,10 +49,6 @@
       link: https://www.hoshiroko.com/
       description: 越是拼命往前伸手，渴望之物越是渐行渐远
       avatar: https://api.hoshiroko.com/img/avatar.jpg
-    - name: Win2k的屑站
-      link: https://abjust.xyz/
-      description: 啥也不是
-      avatar: https://abjust.xyz/upload/QQ图片20230714232022.jpg
     - name: 阿龙的笔记
       link: https://www.alongw.cn/
       description: 阿巴阿巴…
@@ -68,7 +64,7 @@
     - name: KuoHuBlog
       link: https://khbit.cn/
       description: 一名Bug带师（不是
-      avatar: https://khbit.cn/upload/QQ%E5%9B%BE%E7%89%8720230117231100.jpg
+      avatar: https://khbitcn-1301949915.cos.accelerate.myqcloud.com/b_8aca8771cd00463b83e95e5f7a148e39.jpg
     - name: 八蓝米科技
       link: https://8mi.tech/
       description: 八蓝米科技提供：BMCLAPI 助力加速，直播录像存储，不干人事，想整骚活
@@ -102,3 +98,7 @@
     #  link: https://blog.eunoia.top
     #  description: 山海不可平
     #  avatar: https://blog.eunoia.top/12.jpg
+    #- name: Win2k的屑站
+    #  link: https://abjust.xyz/
+    #  description: 啥也不是
+    #  avatar: https://abjust.xyz/upload/QQ图片20230714232022.jpg
