@@ -107,3 +107,9 @@ deploy:
 permalink_pinyin:
   enable: true
   separator: "-"
+
+lazy_load:
+  enable: true
+  all: false
+  fallback: false
+  width_height: false
