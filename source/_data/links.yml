@@ -77,6 +77,10 @@
       link: https://byteloid.one/
       description: 好久不见
       avatar: https://blog.byteloid.one/img/march7th.webp
+    - name: 天宇网络博客
+      link: https://hk47.cc/
+      description: 小小世界-容纳百川
+      avatar: https://hk47.cc/wp-content/uploads/2021/11/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F.jpg
 
 - links_category: 组织/团体
   has_thumbnail: false
@@ -89,6 +93,18 @@
       link: https://otherworld.icu/
       description: 某个神秘的地方（？）
       avatar: https://p.qlogo.cn/gh/673460010/673460010/640
+    - name: 猫窝
+      link: https://nyanest.xyz/
+      description: Nya~
+      avatar: 
+
+- links_category: 其他
+  has_thumbnail: false
+  list:
+    - name: 天宇网络论坛
+      link: https://txnb.vip/
+      description: 天宇网络的论坛
+      avatar: https://hk47.cc/wp-content/uploads/2021/11/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F.jpg
 
     #- name: Xhofe's Blog
     #  link: https://nn.ci
