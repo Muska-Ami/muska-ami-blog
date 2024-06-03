@@ -10,11 +10,14 @@ tags:
 
 - 安装基本工具（为精简版系统准备）
 - 设置清华源
-- Hyfetch
+- Neo/Fast/Hyfetch
 - Tailscale组网
 - 1Panel安装
 - 哪吒监控Agent安装（自动使用 `https://proxy-gh.1l1.icu` 镜像）
+- 更多功能...
 
 ```sh
-curl https://install.1l1.icu/linux_setup.sh | bash
+#apt update
+#apt install curl -y
+curl https://install.1l1.icu/linux_setup.sh -o setup && bash setup
 ```
