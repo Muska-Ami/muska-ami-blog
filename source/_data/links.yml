@@ -100,7 +100,11 @@
     - name: 猫窝
       link: https://nyanest.xyz/
       description: Nya~
-      avatar: 
+      avatar: https://p.qlogo.cn/gh/823744150/823744150/640
+    - name: MSMP
+      link: 
+      description: bruh
+      avatar: https://s2.loli.net/2023/07/04/IqXuD2V67iSzvjy.png
 
 - links_category: 其他
   has_thumbnail: false
