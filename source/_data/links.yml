@@ -92,7 +92,11 @@
     - name: k43Lab
       link: https://k43lab.1l1.icu/
       description: A orgnization witch designed to facilitate communication about technologies.
-      avatar: https://k43lab.1l1.icu/k43lab.png
+      avatar: https://k43lab.1l1.icu/k43lab.png 
+    - name: 风雨阁 Storm Pavilion
+      link: https://spcraft.cn/
+      description: Keep loving.
+      avatar: https://spcraft.cn/favicon.ico
     - name: 异世界
       link: https://otherworld.icu/
       description: 某个神秘的地方（？）
