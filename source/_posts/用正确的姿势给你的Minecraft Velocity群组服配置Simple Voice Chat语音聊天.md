@@ -6,7 +6,7 @@ tags:
     - Simple Voice Chat
 ---
 Simple Voice Chat 是一个可以让玩家通过语音聊天的模组。
-![Modrith](https://modrinth.com/plugin/simple-voice-chat)
+[Modrith](https://modrinth.com/plugin/simple-voice-chat)
 
 ## 下载并为子服务器安装
 
