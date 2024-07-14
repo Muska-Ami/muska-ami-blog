@@ -17,6 +17,8 @@ cover: https://apac-cloudflare-r2.img.1l1.icu/2024/07/15/6693fe14574d8.webp
 其实是一个基于 AList 和 Rclone 的开源网络盘挂载工具（个人感觉管理功能偏少），支持挂载为本地盘，而且无需付费。
 前端基于 Tauri 开发。
 
+官网：[NetMount](https://www.netmount.cn/)
+
 ## 使用 NetMount 挂载自家 AList
 
 我在自己家部署了 MinIO 和 AList，用来做 NAS，但是一直没找到好的挂载软件。
