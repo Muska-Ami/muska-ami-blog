@@ -382,6 +382,7 @@ inject:
     - |-
       <script src="/js/clickeffect.js"></script>
       <script src="/js/sakurainit.js"></script>
+      <script src="/js/devtools_performance.js"></script>
   # Inject custom footer html code
   footer:
     - |-
