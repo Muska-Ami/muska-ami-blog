@@ -2,6 +2,7 @@
 title: Nya LoCyanFrp! 乐青映射启动器 - 新一代LCF启动器
 date: 2024-01-03T12:32:39+08:00
 tags:
+  - Nya LoCyanFrp!
   - LoCyanFrp
   - 乐青映射
   - Frp
