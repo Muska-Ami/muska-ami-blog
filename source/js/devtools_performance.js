@@ -48,18 +48,24 @@
   }
 })();
 
+var devtools_notice = false;
+
 window.addEventListener("devtoolschange", function (e) {
   if (e.detail.open) {
     sakura.stop(true);
-    new NoticeJs({
-      text: '检测到 DevTools 已打开，已开启樱花效果。',
-      position: 'topRight',
-  }).show();
+    if (!devtools_notice)
+      new NoticeJs({
+        text: "检测到 DevTools 已打开，已关闭樱花效果。",
+        position: "topRight",
+      }).show();
+    devtools_notice = true;
   } else {
     sakura.start();
-    new NoticeJs({
-      text: '检测到 DevTools 已关闭，已开启樱花效果。',
-      position: 'topRight',
-  }).show();
+    if (devtools_notice)
+      new NoticeJs({
+        text: "检测到 DevTools 已关闭，已开启樱花效果。",
+        position: "topRight",
+      }).show();
+    devtools_notice = false;
   }
 });
