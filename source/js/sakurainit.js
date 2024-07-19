@@ -1,3 +1,3 @@
 function sakura() {
-  var sakura = new Sakura("body");
+  window.sakura = new Sakura("body");
 }
