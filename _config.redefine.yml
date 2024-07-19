@@ -376,9 +376,12 @@ inject:
     - |-
       <link rel="stylesheet" href="/css/extra.css">
       <link rel="stylesheet" href="/css/cursor.css">
+      <link rel="stylesheet" href="/css/notice.css">
+      <link rel="stylesheet" href="/css/sakura.min.css">
     - |-
       <script src="/js/sakura.min.js"></script>
-      <link rel="stylesheet" href="/css/sakura.min.css">
+      <script src="/js/notice.js"></script>
+      <script src="/js/devtools_performance.js"></script>
     - |-
       <script src="/js/clickeffect.js"></script>
       <script src="/js/sakurainit.js"></script>

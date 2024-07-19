@@ -49,6 +49,17 @@
 })();
 
 window.addEventListener("devtoolschange", function (e) {
-  if (e.detail.open) sakura.stop(true);
-  else sakura.start();
+  if (e.detail.open) {
+    sakura.stop(true);
+    new NoticeJs({
+      text: '检测到 DevTools 已打开，已开启樱花效果。',
+      position: 'topRight',
+  }).show();
+  } else {
+    sakura.start();
+    new NoticeJs({
+      text: '检测到 DevTools 已关闭，已开启樱花效果。',
+      position: 'topRight',
+  }).show();
+  }
 });
