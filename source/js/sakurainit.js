@@ -1,3 +1,3 @@
 function sakura() {
-  window.sakura = new Sakura("body");
+  localStorage.setItem('sakura', sakura) = new Sakura("body");
 }

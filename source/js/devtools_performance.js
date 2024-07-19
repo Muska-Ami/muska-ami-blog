@@ -49,6 +49,7 @@
 })();
 
 window.addEventListener("devtoolschange", function (e) {
-  if (e.detail.open) window.sakura.stop();
-  else window.sakura.start();
+  const sakura = localStorage.getItem('sakura');
+  if (e.detail.open) sakura.stop();
+  else sakura.start();
 });
