@@ -1,9 +1,9 @@
-document.addEventListener("DOMContentLoaded", (event) => {
+document.addEventListener("DOMContentLoaded", (e) => {
   clickEffect();
   sakuraGenerate();
 
-  window.addEventListener("devtoolschange", function (e) {
-    if (e.detail.open) {
+  window.addEventListener("devtoolschange", (ev) => {
+    if (ev.detail.open) {
       window.sakura.stop(true);
       window.sakura = null;
       Toastify({
