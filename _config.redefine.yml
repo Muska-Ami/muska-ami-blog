@@ -381,8 +381,8 @@ inject:
     - |-
       <script data-swup-ignore-script src="/js/sakura.min.js"></script>
       <script data-swup-ignore-script src="/js/toastify.js"></script>
+      <script data-swup-ignore-script src="/js/clickeffect.js"></script>
     - |-
-      <script src="/js/clickeffect.js"></script>
       <script src="/js/sakurainit.js"></script>
       <script src="/js/devtools_performance.js"></script>
   # Inject custom footer html code
