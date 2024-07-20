@@ -53,19 +53,27 @@ var devtools_notice = false;
 window.addEventListener("devtoolschange", function (e) {
   if (e.detail.open) {
     sakura.stop(true);
-    if (!devtools_notice)
-      new NoticeJs({
+    if (!devtools_notice) {
+      /*new NoticeJs({
         text: "检测到 DevTools 已打开，已关闭樱花效果。",
         position: "topRight",
-      }).show();
+      }).show();*/
+      Toastify({
+        text: "检测到 DevTools 已打开，已关闭樱花效果。",
+      }).showToast();
+    }
     devtools_notice = true;
   } else {
     sakura.start();
-    if (devtools_notice)
-      new NoticeJs({
+    if (devtools_notice) {
+      /*new NoticeJs({
         text: "检测到 DevTools 已关闭，已开启樱花效果。",
         position: "topRight",
-      }).show();
+      }).show();*/
+      Toastify({
+        text: "检测到 DevTools 已关闭，已开启樱花效果。",
+      }).showToast();
+    }
     devtools_notice = false;
   }
 });

@@ -34,7 +34,7 @@ colors:
   #Primary color
   primary: "#66CCFF"
   # Secondary color (beta)
-  secondary: 
+  secondary:
 # COLORS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -43,15 +43,15 @@ global:
   # Custom fonts
   fonts:
     # Chinese fonts
-    chinese: 
+    chinese:
       enable: false # Whether to enable custom chinese font
-      family:  # Font family
-      url:  # Font URL to CSS file
+      family: # Font family
+      url: # Font URL to CSS file
     # English fonts
-    english: 
+    english:
       enable: false # Whether to enable custom english font
-      family:  # Font family
-      url:  # Font URL to CSS file
+      family: # Font family
+      url: # Font URL to CSS file
   # Content max width
   content_max_width: 1000px
   # Sidebar width
@@ -80,7 +80,7 @@ global:
     enable: true # Whether to enable Google Analytics
     id: G-4Y75G9Q6MC # Google Analytics Measurement ID
 # SITE CUSTOMIZATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
-    
+
 
 # FONTAWESOME >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 fontawesome: # Pro v6.2.1
@@ -102,7 +102,7 @@ home_banner:
   # style of home banner
   style: fixed # static or fixed
   # Home banner image
-  image: 
+  image:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
@@ -110,15 +110,15 @@ home_banner:
   # Home banner subtitle
   subtitle:
     text: [
-      "Keep doing, keep loving.",
-      "我不清楚活着是为了什么，也不清楚为谁而活。",
-      "事情总是走向最差的一面，人总是活成自己讨厌的样子。",
-      "“战争是残酷的，但经历过它的人是不平凡的，我们是谁？是人，活生生的人。没有歧视之分。我们也要作为自己活在这个世界。”",
-      "念念不忘，必有回响；凡心所向，素履以往。",
-      "曲终人散，黄粱一梦。该醒了。",
-      "果然是做不到的啊。",
-    ] # subtitle text, array
-    hitokoto:  # 一言配置
+        "Keep doing, keep loving.",
+        "我不清楚活着是为了什么，也不清楚为谁而活。",
+        "事情总是走向最差的一面，人总是活成自己讨厌的样子。",
+        "“战争是残酷的，但经历过它的人是不平凡的，我们是谁？是人，活生生的人。没有歧视之分。我们也要作为自己活在这个世界。”",
+        "念念不忘，必有回响；凡心所向，素履以往。",
+        "曲终人散，黄粱一梦。该醒了。",
+        "果然是做不到的啊。",
+      ] # subtitle text, array
+    hitokoto: # 一言配置
       enable: false # Whether to enable hitokoto
       api: https://v1.hitokoto.cn # API URL, can add types, see https://developer.hitokoto.cn/sentence/#%E5%8F%A5%E5%AD%90%E7%B1%BB%E5%9E%8B-%E5%8F%82%E6%95%B0
     typing_speed: 100 # Typing speed (ms)
@@ -128,11 +128,11 @@ home_banner:
     loop: true # Whether to loop
     smart_backspace: true # Whether to smart backspace
   # Color of home banner text
-  text_color: 
+  text_color:
     light: "#fff" # light mode
     dark: "#d1d1b6" # dark mode
   # Specific style of the text
-  text_style: 
+  text_style:
     # Title font size
     title_size: 2.6rem
     # Subtitle font size
@@ -140,7 +140,7 @@ home_banner:
     # Line height between title and subtitle
     line_height: 1.2
   # Home banner custom font
-  custom_font: 
+  custom_font:
     # Whether to enable custom font
     enable: false
     # Font family
@@ -170,30 +170,30 @@ navbar:
   auto_hide: true
   # Navbar background color
   color:
-    left: "#f78736" #left side 
-    right: "#367df7"  #right side
+    left: "#f78736" #left side
+    right: "#367df7" #right side
     transparency: 35 #percent (10-99)
   # Navbar links
   links:
-    # Home: 
-    #   path: / 
+    # Home:
+    #   path: /
     #   icon: fa-regular fa-house # can be empty
-    Archives: 
-      path: /archives 
+    Archives:
+      path: /archives
       icon: fa-regular fa-archive # can be empty
-    Status: 
+    Status:
       icon: fa-regular fa-chart-bar
       submenus:
         服务监控: https://status.1l1.icu
         服务器监控: https://svs.1l1.icu
-    # About: 
+    # About:
     #   icon: fa-regular fa-user
     #   submenus:
     #     Me: /about
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-    Links: 
+    Links:
       path: /links
       icon: fa-regular fa-link
     其他:
@@ -226,26 +226,26 @@ home:
     announcement: # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
-      # Archives: 
-      #   path: /archives 
+      # Archives:
+      #   path: /archives
       #   icon: fa-regular fa-archive # can be empty
-      # Tags: 
-      #   path: /tags 
+      # Tags:
+      #   path: /tags
       #   icon: fa-regular fa-tags # can be empty
-      # Categories: 
-      #   path: /categories 
+      # Categories:
+      #   path: /categories
       #   icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
   # Article categories visibility
   categories:
-    enable: false  # Whether to enable
+    enable: false # Whether to enable
     limit: 3 # Max number of categories to display
   # Article tags visibility
   tags:
-    enable: true  # Whether to enable
-    limit: 3  # Max number of tags to display
+    enable: true # Whether to enable
+    limit: 3 # Max number of tags to display
 # HOME PAGE ARTICLE SETTINGS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -266,7 +266,7 @@ articles:
     count: true # Whether to display word count
     min2read: true # Whether to display reading time
   # Author label
-  author_label: 
+  author_label:
     enable: true # Whether to enable
     auto: false # Whether to automatically add author label, e.g. Lv1, Lv2, Lv3...
     list: []
@@ -372,18 +372,17 @@ inject:
   enable: true
   # Inject custom head html code
   head:
-    - <script src="https://im.1l1.icu" data-swup-ignore-script></script>
+    - <script data-swup-ignore-script src="https://im.1l1.icu"></script>
     - |-
       <link rel="stylesheet" href="/css/extra.css">
       <link rel="stylesheet" href="/css/cursor.css">
-      <link rel="stylesheet" href="/css/notice.css">
+      <link rel="stylesheet" href="/css/toastify.css">
       <link rel="stylesheet" href="/css/sakura.min.css">
     - |-
-      <script src="/js/sakura.min.js"></script>
-      <script src="/js/notice.js"></script>
-      <script src="/js/devtools_performance.js"></script>
+      <script data-swup-ignore-script src="/js/sakura.min.js"></script>
+      <script data-swup-ignore-script src="/js/toastify.js"></script>
+      <script data-swup-ignore-script src="/js/clickeffect.js"></script>
     - |-
-      <script src="/js/clickeffect.js"></script>
       <script src="/js/sakurainit.js"></script>
       <script src="/js/devtools_performance.js"></script>
   # Inject custom footer html code
@@ -417,11 +416,11 @@ plugins:
         artist: # audio artist
         url: # audio url
         cover: # audio cover url
-#      - name: # audio name
-#        artist: # audio artist
-#        url: # audio url
-#        cover: # audio cover url
-      # .... you can add more audios here
+  #      - name: # audio name
+  #        artist: # audio artist
+  #        url: # audio url
+  #        cover: # audio cover url
+  # .... you can add more audios here
   # Mermaid JS. Requires hexo-filter-mermaid-diagrams (npm i hexo-filter-mermaid-diagrams). See https://mermaid.js.org/
   mermaid:
     enable: false # enable mermaid or not
@@ -447,8 +446,9 @@ cdn:
   # Custom CDN URL
   # format example: https://cdn.custom.com/hexo-theme-redefine/${version}/source/${path}
   # The ${path} must be in the source folder of the theme
-  custom_url: 
+  custom_url:
 # CDN <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
+
 
 # DEVELOPER MODE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 developer:
