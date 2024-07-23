@@ -35,6 +35,7 @@ proxy_protocol_version = v2
 
 ## Paper Global 配置开启 HAProxy 支持
 
+演示版本为 `Paper-1.21-109` ，配置文件位于 `config/paper-global.yml`。
 将 `proxies.proxy-protocol` 设置为 `true` 。
 
 ```yaml
