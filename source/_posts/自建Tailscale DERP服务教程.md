@@ -18,7 +18,7 @@ tags:
 iptables/nftables和服务器安全组都要放行以下端口：
 
 - `UDP/3478`
-- `TCP/<PORT>` 或 `TCP/443`（HTTPS模式只能使用443）
+- `TCP/<PORT>`
 
 `<PORT>` 请改为一个你需要的端口
 
@@ -106,7 +106,7 @@ go install tailscale.com/cmd/derper@main
 ```sh
 #!/bin/sh
 cd /usr/local/gopath/bin
-nohup ./derper -hostname <DOMAIN> -c=derper.conf -a :443 -http-port -1 -certdir /usr/local/cert -certmode manual -verify-clients -stun > console.log 2>&1 &
+nohup ./derper -hostname <DOMAIN> -c=derper.conf -a :<PORT> -http-port -1 -certdir /usr/local/cert -certmode manual -verify-clients -stun > console.log 2>&1 &
 echo $! > app.pid
 ```
 
