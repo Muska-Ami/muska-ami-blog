@@ -53,7 +53,6 @@ mkdir -p /opt/derper/cert # 证书目录
 如果需要搭建的为公共 DERP，请移除 `-verify-clients` 部分。
 
 ```yaml
-version: '3.8'
 services:
   derper:
     image: qctt/derper
