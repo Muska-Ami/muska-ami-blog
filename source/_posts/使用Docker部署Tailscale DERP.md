@@ -60,7 +60,7 @@ services:
     container_name: derper
     restart: unless-stopped
     ports:
-      - "443:<PORT>"
+      - "<PORT>:443"
       - "3478:3478/udp"
     volumes:
       - /opt/derper/cert/:/cert/ # 证书目录
