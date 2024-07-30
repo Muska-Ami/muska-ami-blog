@@ -12,6 +12,8 @@ Muska Ami Network 是一个大型的 **私人架设的** 内部网络，仅用�
 - Tailscale
 - DERP (Designated Encrypted Relay for Packets)
 
+![Client Connection](https://apac-cloudflare-r2.img.1l1.icu/2024/07/30/66a8795576bb5.webp)
+
 ### Relay Server
 
 #### 中国大陆
