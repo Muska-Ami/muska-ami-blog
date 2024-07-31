@@ -117,6 +117,7 @@ home_banner:
         "念念不忘，必有回响；凡心所向，素履以往。",
         "曲终人散，黄粱一梦。该醒了。",
         "果然是做不到的啊。",
+        "虚假的世界，却存在着真实的情感，折磨着每一个过客。",
       ] # subtitle text, array
     hitokoto: # 一言配置
       enable: false # Whether to enable hitokoto
