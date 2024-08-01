@@ -20,4 +20,4 @@ type: links
 - 无侵入性、诱导性广告
 - [MySSL](https://myssl.com)评级A及以上 (E1证书除外)
 
-在下方评论（若未加载请刷新）或将您的信息发至邮箱 [xmcn@1l1.icu](mailto:xmcn@1l1.icu) 即可申请添加
+在下方评论（若未加载请刷新）或将您的信息发至邮箱 [ami@muska.zip](mailto:ami@muska.zip) 即可申请添加

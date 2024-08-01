@@ -9,7 +9,7 @@ Looking Glass: [https://looking-glass.dn42.1l1.icu/](https://looking-glass.dn42.
 
 ## 对端地址
 
-请通过邮件或其他方式联系我提供对端端口，邮件地址为 <mailto:xmcn@1l1.icu>
+请通过邮件或其他方式联系我提供对端端口，邮件地址为 <mailto:ami@muska.zip>
 
 ### Hezhou,Guangxi,China (CMCC)
 
