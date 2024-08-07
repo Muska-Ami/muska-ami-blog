@@ -186,7 +186,7 @@ navbar:
       icon: fa-regular fa-chart-bar
       submenus:
         服务监控: https://status.1l1.icu
-        服务器监控: https://svs.1l1.icu
+        服务器监控(过时): https://svs.1l1.icu
     # About:
     #   icon: fa-regular fa-user
     #   submenus:
@@ -200,9 +200,7 @@ navbar:
     其他:
       icon: fa-regular fa-list
       submenus:
-        Subnets: /extras/subnets
-        DN42: /extras/dn42
-        Muska Ami Network: /extras/private-network
+        Muska Network: https://muska.zip
     #   submenus:
     #     Link1: /link1
     #     Link2: /link2
