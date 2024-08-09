@@ -13,4 +13,4 @@ nova 3这台机子更新了HarmonyOS 2，但是却是基于AOSP9的版本，导�
 adb shell settings put secure ui_night_mode 2
 ```
 
-如果你像我的一样安装了 GMS 框架，但是发现设置了之后Google家的一些应用还一样浅色模式显示，得手动到应用的设置设成深色
+如果你像我的一样安装了 GMS 框架，但是发现设置了之后 Google 家的一些应用还一样浅色模式显示，得手动到应用的设置设成深色
