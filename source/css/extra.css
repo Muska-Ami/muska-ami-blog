@@ -22,18 +22,12 @@
   position: fixed !important;
 }
 
-.follow-mouse-blur::before {
-  content:'';
-  position: absolute;
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%); /*默认居中*/
-  box-shadow: 0 0 0 999vw rgba(0, 0, 0, .5); /*足够大的投影*/
-  left: calc(var(--x) * 100%);
-  top: calc(var(--y) * 100%);
+.hidden-blur {
+  filter: blur(3px);
+  transition: 0.3s;
+}
+.hidden-blur:hover {
+  filter: none;
 }
 
 /*
