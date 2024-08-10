@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", (e) => {
   clickEffect();
   sakuraGenerate();
+  loadFollow();
 
   window.addEventListener("devtoolschange", (ev) => {
     if (ev.detail.open) {

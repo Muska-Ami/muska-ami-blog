@@ -381,6 +381,7 @@ inject:
       <script data-swup-ignore-script src="/js/sakura.min.js"></script>
       <script data-swup-ignore-script src="/js/toastify.js"></script>
       <script data-swup-ignore-script src="/js/clickEffect.js"></script>
+      <script data-swup-ignore-script src="/js/followMouseBlur.js"></script>
     - |-
       <script data-swup-ignore-script src="/js/devtoolsChecker.js"></script>
   # Inject custom footer html code
