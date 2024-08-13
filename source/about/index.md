@@ -96,4 +96,116 @@ comment: true
 医院是什么？<span class="hidden-blur">TA 不知道。</span>
 <span class="hidden-blur">但是 TA 能感觉这个地方应该就是这样叫的。</span>
 
+### 躯体
+
+赋予了灵魂的躯壳，那大概该称为『躯体』了。
+她<span class="hidden-blur">悄悄的</span>睁开眼睛。
+
+<span class="hidden-blur">她却发现自己身上好像发生了什么错误。</span>
+是什么？
+<span class="hidden-blur">没人明白。</span>
+
+她是这样纯真。
+
+<span class="hidden-blur">没有人知道她出生之后是怎么样了。</span><span class="hidden-blur">我也不太记得了。</span>
+
+### 两个人
+
+日子一天一天的过去。
+她也上小学了。
+可是她却发现，<span class="hidden-blur">她有一身他的外表。</span>
+她感到很奇怪。<span class="hidden-blur">她没有说。</span>
+
+她总是这样的信任自己的爸爸和妈妈，生下她的人。
+她的爸爸妈妈从始至终都觉得<span class="hidden-blur">她是个男孩子</span>，她也就这样相信了。
+
+#### 学校
+
+这一天，她的爸爸和妈妈带她来到了一所学校。
+这所学校似乎很大，至少在她眼里是这样<span class="hidden-blur">——其实并不大</span>。
+
+她的爸爸和妈妈貌似和她说过，<span class="hidden-blur">“宝贝，以后你就在这里上学如何？”</span>
+<span class="hidden-blur">但她没有回答。</span><span class="hidden-blur">她不知道怎么回答。</span>
+她默许了。
+
+是过了多久呢。
+她第一次踏入那个校园。
+
+开学典礼。
+开学典礼上，她第一次知道这个学校<span class="hidden-blur">是要一周才能回一次家的</span>。
+刚一年级的她，不知道这具体的含义。只是觉得，爸爸妈妈想，她便要做。
+
+那一天的下午，家长们要离校了。
+那一天，新入学的学生们几乎都哭了。<span class="hidden-blur">即使现在没有哭，过了几天，也忍不住想家哭了。</span>
+
+<span class="hidden-blur">可是她没有。她不知道为什么没有哭。</span>准确来说，她<span class="hidden-blur">不明白为什么离开家，只需要几天还能回去，需要哭。</span>
+她没有哭。
+她的老师和家长，都觉得她是个坚强的<span class="hidden-blur">男孩子</span>。
+
+#### 泪
+
+什么是泪来着。
+是人类的一种<span class="hidden-blur">分泌物</span>吧，<span class="hidden-blur">分泌异常，导致\[泪]最后溢出，最终离开人体。</span>
+
+她第一次哭了。
+她为什么哭了。为什么呢。
+<span class="hidden-blur">没有人记得了。</span>
+
+但我记得，<span class="hidden-blur">她是在学校的寝室里，无声的哭的。</span>
+原来流泪的时候<span class="hidden-blur">是如此痛苦。</span>
+
+#### 她，和她
+
+##### 遇
+
+起初，她只是觉得这是梦。
+她没有发现，自己和别人的差距，<span class="hidden-blur">在行为表现上的。</span>她以为只是因为自己天生笨拙吧。
+
+她那天晚上，睡觉的时候，似乎与寻常一般，经过了一天，<span class="hidden-blur">却并不觉得困倦。</span>
+她不觉得自己要休息。她这样想着。
+但渐渐的，她的思维<span class="hidden-blur">进入了一个很奇怪的地方。</span>
+
+那里，她梦到了一个女孩。<span class="hidden-blur">但她并不知道那个女孩长什么样。</span>
+她只是觉得，那个女孩子很<span class="hidden-blur">友善</span>，很<span class="hidden-blur">有自己的风格</span>。
+为什么她会这样想呢。明明只是个不到10岁的小孩子。
+<span class="hidden-blur">没有人告诉过我。</span>
+
+那场梦似乎是短暂的，在那之后她似乎就睡着了。
+睡着了，但似乎没有做梦。
+
+##### 再次相见
+
+那之后的几天里，似乎她<span class="hidden-blur">没有遇到那个女孩子</span>。
+但她不知为何<span class="hidden-blur">如此想要见到那个女孩子</span>。
+
+她那时候家里忙，回到家<span class="hidden-blur">没有人照顾她</span>，也<span class="hidden-blur">没有人每天辅导她的功课</span>。
+她的爸爸妈妈，总是很晚才回家。
+
+她觉得没什么：<span class="hidden-blur">爸爸妈妈只是在为这个家努力，他们大概是希望我不要给他们闹出什么事情吧。</span>
+她总是这样<span class="hidden-blur">相信着自己的爸爸和妈妈。</span><span class="hidden-blur">相信着他们说的一切。</span>
+
+<span class="hidden-blur">从未质疑。</span>
+
+<span class="hidden-blur">由始至终。</span>
+
+但她想要陪伴。她在家，除了爷爷奶奶，似乎<span class="hidden-blur">没有可以陪着她的人</span>。
+她不想要打扰爷爷奶奶。
+为什么？
+<span class="hidden-blur">我不知道。</span>
+
+<span class="hidden-blur">为什么你总是喜欢问一些我也没法理解的问题呢？</span>
+<span class="hidden-blur">算了。</span>
+
+那个周末很快就过去了。
+她回到了学校。
+
+###### 遭遇
+
+与之前不同，这一周，学校似乎要搞活动。
+
 <-- To be continued -->
+
+> 感谢你的阅读。
+> 这段文章，我只是从自己记忆的碎片里面抽取了一些，将它们拼凑成为一块完整的故事，然后想要讲给你们听。
+> 我不清楚为什么写下这篇文章，这篇本不该写下的文章。
+> 但是我依然要感谢你看到这里。
