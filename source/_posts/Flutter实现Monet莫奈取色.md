@@ -93,4 +93,4 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-接下来，热重载应用程序即可看到效果~
+接下来，热重启应用程序即可看到效果~
