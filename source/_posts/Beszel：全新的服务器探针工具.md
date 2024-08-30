@@ -1,5 +1,5 @@
 ---
-title: Beszel: 全新的服务器探针工具
+title: Beszel：全新的服务器探针工具
 date: 2024-08-31T06:41:47+08:00
 tags:
     - Beszel
