@@ -101,6 +101,7 @@ go install tailscale.com/cmd/derper@main
 
 新建 `/opt/derper/runderper` 文件
 如果你需要SSL，把SSL证书上传到 `/usr/local/cert` 文件夹
+证书命名格式为 `<DOMAIN>.<SUFFIX>`
 将证书文件后缀改为 `crt` ，密钥文件后缀改为 `key`
 
 ```sh
@@ -115,7 +116,7 @@ echo $! > app.pid
 ```sh
 #!/bin/sh
 cd /usr/local/gopath/bin
-nohup ./derper -hostname <DOMAIN> -c=derper.conf -a :<PORT> -http-port -1 manual -verify-clients -stun > console.log 2>&1 &
+nohup ./derper -hostname <DOMAIN> -c=derper.conf -a :<PORT> manual -verify-clients -stun > console.log 2>&1 &
 echo $! > app.pid
 ```
 
