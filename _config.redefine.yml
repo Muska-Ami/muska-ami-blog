@@ -14,7 +14,7 @@ info:
   # Author name
   author: 夏沫花火zzz🌙 (Muska_Ami)
   # Site URL
-  url: https://blog.muska.zip
+  url: https://blog.1l1.icu
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -386,10 +386,12 @@ inject:
   # Inject custom footer html code
   footer:
     - |-
-      <a href="https://ipw.cn/ipv6webcheck/?site=blog.muska.zip" title="本站支持IPv6访问" target="_blank"><img style="display:inline-block;vertical-align:middle" alt="本站支持IPv6访问" src="https://static.ipw.cn/icon/ipv6-s4.svg"></a>
+      <a href="https://ipw.cn/ipv6webcheck/?site=blog.1l1.icu" title="本站支持IPv6访问" target="_blank"><img style="display:inline-block;vertical-align:middle" alt="本站支持IPv6访问" src="https://static.ipw.cn/icon/ipv6-s4.svg"></a>
       <br>
     - |-
-      <div title="MySSL 安全签章" id="myssl_seal" onclick="window.open('https://myssl.com/seal/detail?domain=blog.muska.zip','MySSL安全签章','height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no')" style="text-align: center;display:inline-block;vertical-align:middle"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=blog.muska.zip" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>
+      <script>
+        document.write('<div title="MySSL 安全签章" id="myssl_seal" onclick="window.open(\'https://myssl.com/seal/detail?domain=' + window.location.host + '\',\'MySSL安全签章\',\'height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no\')" style="text-align: center;display:inline-block;vertical-align:middle"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=' + window.location.host + '" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>')
+      </script>
     - |-
       <script src="/js/init.js"></script>
 # INJECT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
