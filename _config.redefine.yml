@@ -155,7 +155,7 @@ home_banner:
     # Social links
     links:
       github: https://github.com/Muska-Ami # your GitHub URL
-      twitter: https://x.com/Muska_Ami # your twitter URL
+      # twitter: https://x.com/Muska_Ami # your twitter URL
       email: ami@muska.zip # your email
       # ...... # you can add more
     # Social links with QRcode drawers
@@ -186,7 +186,7 @@ navbar:
       icon: fa-regular fa-chart-bar
       submenus:
         服务监控: https://status.1l1.icu
-        服务器监控(过时): https://svs.1l1.icu
+        # 服务器监控(过时): https://svs.1l1.icu
     # About:
     #   icon: fa-regular fa-user
     #   submenus:
