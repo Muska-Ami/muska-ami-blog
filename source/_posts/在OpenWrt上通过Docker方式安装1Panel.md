@@ -4,7 +4,7 @@ date: 2024-04-29T13:12:36+08:00
 tags:
     - OpenWrt
     - 1Panel
-cover: https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328a0c5b904.webp
+cover: https://apac-cloudflare-r2-img.1l1.icu/2024/05/02/66328a0c5b904.webp
 ---
 ## 安装Docker
 
@@ -41,7 +41,7 @@ docker exec -it 1panel /bin/sh
 1pctl user-info
 ```
 
-![Shell](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328a0d16b59.webp)
+![Shell](https://apac-cloudflare-r2-img.1l1.icu/2024/05/02/66328a0d16b59.webp)
 
 ## 通过 Docker Compose 部署方便挂载和升级
 

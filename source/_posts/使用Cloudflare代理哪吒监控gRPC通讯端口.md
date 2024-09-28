@@ -16,7 +16,7 @@ tags:
 ### 开启Cloudflare gRPC连接功能
 
 前往 `你的账户` -> `网站` -> `你的域名` -> `网络` -> `gRPC` 开启gRPC连接功能
-![gRPC](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328e47e2a60.webp)
+![gRPC](https://apac-cloudflare-r2-img.1l1.icu/2024/05/02/66328e47e2a60.webp)
 
 ### 配置反向代理
 
@@ -88,4 +88,4 @@ cd /opt/nezha/agent # 打开存放Agent的目录
 ```
 
 如果配置成功可以看到正常连接了
-![Connected](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328e490b8af.webp)
+![Connected](https://apac-cloudflare-r2-img.1l1.icu/2024/05/02/66328e490b8af.webp)

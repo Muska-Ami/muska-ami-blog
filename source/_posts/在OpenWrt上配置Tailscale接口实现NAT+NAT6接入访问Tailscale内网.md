@@ -28,14 +28,14 @@ iStoreOS可以直接在iStore安装，其他发行版可参考：
 - MSS钳制
 
 根据需要配置转发
-![Firewall](https://apac-cloudflare-r2.img.1l1.icu/2024/05/09/663c484c0c0bf.webp)
+![Firewall](https://apac-cloudflare-r2-img.1l1.icu/2024/05/09/663c484c0c0bf.webp)
 
 ### 创建接口
 
 `网络` -> `接口` 创建新接口，我这里命名为 `tsnet`
 协议选择 `静态地址` ，设备选择 `tailscale0`
 IPv4和IPv6地址分别填写Tailscale发给OpenWrt设备的IP，子网掩码无需指定
-![Interface](https://apac-cloudflare-r2.img.1l1.icu/2024/05/09/663c498952736.webp)
+![Interface](https://apac-cloudflare-r2-img.1l1.icu/2024/05/09/663c498952736.webp)
 
 此时保存并应用后，你应该可以正常访问你的内网了
 

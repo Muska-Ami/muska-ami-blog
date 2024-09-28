@@ -13,7 +13,7 @@ WSA即将于 2025 年 3 月 5 日 停止支持，发这篇文章的原因，是�
 也许是因为我单核性能太低，无法支撑吧，这也证明了WSA的资源调度能力。
 况且WSA是开源的，开源用起来势必要省心的多。
 
-![演示图](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328b50e0f8a.webp)
+![演示图](https://apac-cloudflare-r2-img.1l1.icu/2024/05/02/66328b50e0f8a.webp)
 
 ## 我对WSA的态度
 

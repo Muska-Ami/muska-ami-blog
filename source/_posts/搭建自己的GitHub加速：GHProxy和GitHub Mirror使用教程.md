@@ -73,7 +73,7 @@ docker run -d --name="gh-proxy-py" \
 ```
 
 浏览器打开 `http://服务器IP:端口` 即可查看效果。
-![P](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328ae3d2999.webp)
+![P](https://apac-cloudflare-r2-img.1l1.icu/2024/05/02/66328ae3d2999.webp)
 
 ## 搭建GitHub API镜像
 

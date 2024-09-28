@@ -4,7 +4,7 @@ date: 2024-08-31T06:41:47+08:00
 tags:
     - Beszel
     - 探针
-cover: https://apac-cloudflare-r2.img.1l1.icu/2024/08/31/66d24b2ac847e.webp
+cover: https://apac-cloudflare-r2-img.1l1.icu/2024/08/31/66d24b2ac847e.webp
 ---
 ## 关于 Beszel
 

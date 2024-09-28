@@ -3,7 +3,7 @@ title: Bitwarden：强大的密码管理器
 date: 2024-05-22T07:05:43+08:00
 tags:
     - 密码管理
-cover: https://apac-cloudflare-r2.img.1l1.icu/2024/05/22/664d3194a8839.webp
+cover: https://apac-cloudflare-r2-img.1l1.icu/2024/05/22/664d3194a8839.webp
 ---
 相信各位都在密码管理上有遇到过各种各样的问题：浏览器默认的不够用，密码不能分类，不能批量删除，需要使用 TOTP 动态口令但是验证器不在身边......
 这些问题曾经也困扰了我很久。我曾经使用的是 Microsoft Edge 电子钱包 + Microsoft Authenticator 来管理我的密码，这些问题困扰了我很久，但是一直没找到合适的替代。
@@ -20,7 +20,7 @@ cover: https://apac-cloudflare-r2.img.1l1.icu/2024/05/22/664d3194a8839.webp
 
 软件没有像其他密码管理器的类似“安全体验”功能，我个人是觉得不错的，不过也有声音说不支持检查这个是个缺点，个人觉得看需要吧。
 自带的“报告”功能对于我来说完全够用了。
-![Report](https://apac-cloudflare-r2.img.1l1.icu/2024/05/22/664d308eda159.webp)
+![Report](https://apac-cloudflare-r2-img.1l1.icu/2024/05/22/664d308eda159.webp)
 
 ## 为什么我推荐 Bitwarden
 
@@ -31,7 +31,7 @@ cover: https://apac-cloudflare-r2.img.1l1.icu/2024/05/22/664d3194a8839.webp
 自托管的话数据在自己手上，也放心些。
 
 还有就是，上面提到过， Bitwarden 有 **Web 管理界面**。有些情况不能带手机或者忘带的情况下，直接到 Web 管理界面就可以看到 TOTP 动态口令了，可以解燃眉之急。
-![TOTP](https://apac-cloudflare-r2.img.1l1.icu/2024/05/22/664d2ec80323b.webp)
+![TOTP](https://apac-cloudflare-r2-img.1l1.icu/2024/05/22/664d2ec80323b.webp)
 
 此外，**跨平台**也是我推荐的理由之一。虽然 Microsoft Authenticator 也可以跨平台同步管理密码（ Microsoft Edge 的密码库和 Microsoft Authenticator 的是同一个库），但是它没有专门的桌面端程序，对于我来说，这是不够的。
 

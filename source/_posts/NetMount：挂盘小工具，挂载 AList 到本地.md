@@ -6,7 +6,7 @@ tags:
     - 磁盘
     - AList
     - Rclone
-cover: https://apac-cloudflare-r2.img.1l1.icu/2024/07/15/6693fe14574d8.webp
+cover: https://apac-cloudflare-r2-img.1l1.icu/2024/07/15/6693fe14574d8.webp
 ---
 ## 什么是 NetMount
 
@@ -24,7 +24,7 @@ cover: https://apac-cloudflare-r2.img.1l1.icu/2024/07/15/6693fe14574d8.webp
 我在自己家部署了 MinIO 和 AList，用来做 NAS，但是一直没找到好的挂载软件。
 NetMount 很好的解决了我挂载的问题：无需修改注册表直接挂载 HTTP 协议的 WebDAV 存储，异步传输（防止卡死文件资源管理器，这个问题真的是 Windows 系统直接挂网络盘的最大槽点），以及突破最大文件传输大小限制。
 
-![效果](https://apac-cloudflare-r2.img.1l1.icu/2024/07/15/6694002798d00.webp)
+![效果](https://apac-cloudflare-r2-img.1l1.icu/2024/07/15/6694002798d00.webp)
 
 ### 安装 WinFsp
 
@@ -37,11 +37,11 @@ NetMount 很好的解决了我挂载的问题：无需修改注册表直接挂�
 点击 `下一步`
 
 按实际填写自己 AList 的 WebDAV 信息。
-![填写内容](https://apac-cloudflare-r2.img.1l1.icu/2024/07/15/669401f848f2a.webp)
+![填写内容](https://apac-cloudflare-r2-img.1l1.icu/2024/07/15/669401f848f2a.webp)
 
 然后会回到 `存储` -> `管理`，点击存储旁边的 `挂载` 配置挂载。
 
-![挂载](https://apac-cloudflare-r2.img.1l1.icu/2024/07/15/6694028a7239e.webp)
+![挂载](https://apac-cloudflare-r2-img.1l1.icu/2024/07/15/6694028a7239e.webp)
 
 按自己需要挂载到指定位置，像我则挂为网络驱动器（显示所有选项，`挂载为网络驱动器`）。
 点击 `挂载`，完成。

@@ -24,4 +24,4 @@ tailscale update
 ```
 
 执行完毕后，你就会发现 Tailscale 已经正常升级到最新版。
-![Result](https://apac-cloudflare-r2.img.1l1.icu/2024/07/30/66a887140ec84.webp)
+![Result](https://apac-cloudflare-r2-img.1l1.icu/2024/07/30/66a887140ec84.webp)
