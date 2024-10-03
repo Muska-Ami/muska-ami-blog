@@ -89,6 +89,10 @@
       link: https://pbr.kasetry.cn/
       description: Just another penguin's blog
       avatar: https://pbr.kasetry.cn/upload/pbr.png
+    - name: 沙雕的Blog
+      link: https://blog.sdbit.net.cn/
+      description: 哈喽~欢迎光临
+      avatar: https://apac-cloudflare-r2-img.1l1.icu/2024/10/03/66fd79ecf3f1c.webp
 
 - links_category: 组织/团体
   has_thumbnail: false
