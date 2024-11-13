@@ -81,10 +81,10 @@
       link: https://hk47.cc/
       description: 小小世界-容纳百川
       avatar: https://hk47.cc/wp-content/uploads/2021/11/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F.jpg
-    # - name: MoYuanCN's Blog
-    #   link: https://moyuancn.vip/
-    #   description: 如星星般闪耀
-    #   avatar: https://cdn-fusion.imgimg.cc/i/2024/40b61d0cab175f39.jpg
+    - name: MoYuanCN's Blog
+      link: https://moyuancn.vip/
+      description: 如星星般闪耀
+      avatar: https://cdn-fusion.imgimg.cc/i/2024/40b61d0cab175f39.jpg
     - name: pbr's pole
       link: https://pbr.kasetry.cn/
       description: Just another penguin's blog
@@ -93,22 +93,18 @@
       link: https://blog.sdbit.net.cn/
       description: 哈喽~欢迎光临
       avatar: https://apac-cloudflare-r2-img.1l1.icu/2024/10/03/66fd79ecf3f1c.webp
+    - name: DoctoR’s blog
+      link: https://rxw2023-github-io.pages.dev/
+      description: before my body is dry
+      avatar: https://rxw2023-github-io.pages.dev/images/kk.jpg
 
 - links_category: 组织/团体
   has_thumbnail: false
-  list: 
-    - name: k43Lab
-      link: https://k43lab.1l1.icu/
-      description: A orgnization witch designed to facilitate communication about technologies.
-      avatar: https://k43lab.1l1.icu/k43lab.png 
+  list:
     - name: 风雨阁 Storm Pavilion
       link: https://spcraft.cn/
       description: Keep loving.
       avatar: https://spcraft.cn/favicon.ico
-    - name: 异世界
-      link: #https://otherworld.icu/
-      description: 某个神秘的地方（？）
-      avatar: https://p.qlogo.cn/gh/673460010/673460010/640
     - name: 猫窝
       link: 
       description: Nya~
