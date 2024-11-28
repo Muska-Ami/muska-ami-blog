@@ -100,7 +100,7 @@
     - name: Canmi
       link: https://canmi21.github.io/
       description: 彩笔猫猫
-      avatar: https://canmi21.github.io/img/Canmi.webp
+      avatar: https://proxy-gh.1l1.icu/raw.githubusercontent.com/Canmi21/Canmi21/refs/heads/main/assets/Canmi.webp
 
 - links_category: 组织/团体
   has_thumbnail: false
