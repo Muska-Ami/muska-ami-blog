@@ -4,6 +4,8 @@ date: 2024-10-05 08:38:24
 tags:
   - LoCyanFrp
   - 杂谈
+categories:
+  - LoCyanFrp
 ---
 
 LoCyanFrp 目前是我为现任站长的一个项目，这篇文章主要是想简单聊一聊，我与 LoCyanFrp，和其他友商的一些经历。
