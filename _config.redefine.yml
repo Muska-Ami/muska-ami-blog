@@ -360,8 +360,8 @@ footer:
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: true # Whether to enable
-    number: 萌ICP备20220860号 # ICP record number
-    url: https://icp.gov.moe/?keyword=20220860 # ICP record url
+    number: 浙ICP备2024084850号-2 # ICP record number
+    url: https://beian.miit.gov.cn/ # ICP record url
 # FOOTER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
