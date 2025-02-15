@@ -113,6 +113,14 @@
       link: https://zerowolf.cn/
       description: 为了前行而努力，即使前方不一定有光。
       avatar: https://zerowolf.cn/wp-content/uploads/2025/01/logo.jpg
+    - name: Daiyangcheng‘s Blog
+      link: https://www.daiyangcheng.cn/
+      description: dyc 的碎碎念
+      avatar: https://cravatar.cn/avatar/5417982dfeabcb9a22bfc582c88a4759?s=2000
+    - name: 楠ちゃん の Mirror
+      link: https://blog.nyat.icu/
+      description: 啊，你在问我吗？
+      avatar: https://cdn.nyat.icu/image/siteicon.png
 
 - links_category: 组织/团体
   has_thumbnail: false
