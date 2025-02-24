@@ -121,6 +121,10 @@
       link: https://blog.nyat.icu/
       description: 啊，你在问我吗？
       avatar: https://cdn.nyat.icu/image/siteicon.png
+    - name: 阿呆
+      link: https://adai.fun
+      description: 分享，学习有趣的知识
+      avatar: https://www.adai.fun/img/adai.png
 
 - links_category: 组织/团体
   has_thumbnail: false
