@@ -1,3 +1,14 @@
+- links_category: 我的/我管理的项目
+  has_thumbnail: false
+  list:
+    - name: zako.work 二级域名
+      link: https://github.com/MuskaNet/zako.work
+      description: zako.work 二级域名申请
+    - name: 乐青映射 - LoCyanFrp
+      link: https://www.locyanfrp.cn
+      description: 全公益的内网穿透服务
+      avatar: https://www.locyanfrp.cn/favicon.ico
+
 - links_category: 朋友们呀~
   has_thumbnail: false
   list: 
@@ -125,6 +136,10 @@
       link: https://adai.fun
       description: 分享，学习有趣的知识
       avatar: https://www.adai.fun/img/adai.png
+    - name: 盐木的小破窝
+      link: https://ski.ink/
+      description: 卷土重来未可知。——杜牧《题乌江亭》
+      avatar: https://ski.ink/favicon.ico
 
 - links_category: 组织/团体
   has_thumbnail: false
