@@ -103,8 +103,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image:
-    light: /images/background.svg # light mode
-    dark: /images/background.svg # dark mode
+    light: /images/background.webp # light mode
+    dark: /images/background.webp # dark mode
   # Home banner title
   title: Muska_Ami
   # Home banner subtitle
