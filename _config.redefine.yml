@@ -104,7 +104,7 @@ home_banner:
   # Home banner image
   image:
     light: /images/background-light.webp # light mode
-    dark: /images/background.webp # dark mode
+    dark: /images/background-dark.webp # dark mode
   # Home banner title
   title: Muska_Ami
   # Home banner subtitle
