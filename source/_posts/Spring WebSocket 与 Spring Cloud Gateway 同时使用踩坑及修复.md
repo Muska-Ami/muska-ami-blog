@@ -39,7 +39,7 @@ dependencies {
 
 > 可以使用命令
 >
-> ```bash
+> ```shell
 > ./gradlew <项目>:dependencies --configuration runtimeClasspath > dependencies_runtime.txt
 > ```
 >
