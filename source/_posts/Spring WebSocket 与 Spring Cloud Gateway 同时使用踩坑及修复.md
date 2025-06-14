@@ -36,3 +36,11 @@ dependencies {
     }
 }
 ```
+
+> 可以使用命令
+>
+> ```bash
+> ./gradlew <项目>:dependencies --configuration runtimeClasspath > dependencies_runtime.txt
+> ```
+>
+> 输出运行时依赖关系，查找是哪个依赖引入了 Tomcat Embed Core
