@@ -55,7 +55,7 @@
     - name: 烟墨的屑站点
       link: https://ymbit.cn/
       description: 剃刀边缘怎能起造伽蓝。
-      avatar: https://api.ymbit.cn/images/favicon.jpg
+      avatar: https://avatar.ymbit.cn/
     - name: 薄荷の小屋
       link: https://www.hoshiroko.com/
       description: 越是拼命往前伸手，渴望之物越是渐行渐远
@@ -75,7 +75,7 @@
     - name: KuoHuBlog
       link: https://khbit.cn/
       description: 一名Bug带师（不是
-      avatar: https://khbitcn-1301949915.cos.accelerate.myqcloud.com/b_8aca8771cd00463b83e95e5f7a148e39.jpg
+      avatar: https://cn.cravatar.com/avatar/c0c67928420f1ca7567ad555aeb50ed6
     - name: 八蓝米科技
       link: https://8mi.tech/
       description: 八蓝米科技提供：BMCLAPI 助力加速，直播录像存储，不干人事，想整骚活
@@ -148,10 +148,6 @@
       link: https://spcraft.cn/
       description: Keep loving.
       avatar: https://spcraft.cn/favicon.ico
-    - name: 猫窝
-      link: 
-      description: Nya~
-      avatar: https://p.qlogo.cn/gh/823744150/823744150/640
     - name: MSMP
       link: 
       description: bruh
@@ -177,3 +173,7 @@
     #  link: https://abjust.xyz/
     #  description: 啥也不是
     #  avatar: https://abjust.xyz/upload/QQ图片20230714232022.jpg
+     # - name: 猫窝
+     #  link: 
+     #  description: Nya~
+     #  avatar: https://p.qlogo.cn/gh/823744150/823744150/640
