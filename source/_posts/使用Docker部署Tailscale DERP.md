@@ -35,6 +35,8 @@ iptables/nftables和服务器安全组都要放行以下端口：
 
 此步骤用于鉴权，若你搭建的是公开 DERP 服务，那么可以跳过。
 
+更新: 如果你想使用容器版本的 Tailscale，那么也可以跳过此步，往下一步有更多说明。
+
 ```sh
 curl -fsSL https://tailscale.com/install.sh | sh
 ```
@@ -52,6 +54,11 @@ mkdir -p /opt/derper/cert # 证书目录
 本文假设你需要 SSL，故写入证书相关。关于证书请继续往下。若不需要 SSL，请自行移除 `-certdir=/cert/ -certmode=manual` 部分。
 如果需要搭建的为公共 DERP，请移除 `-verify-clients` 部分。
 
+如果你不需要鉴权，无需关心 Tailscale 客户端安装方式，因为并不需要安装。
+如果你需要让 DERP 获取真实 IP，请将网络模式改为 `host` 模式（修改 STUN 端口可用 `-stun-port` 参数指定）。
+
+### 使用宿主机 Tailscale 客户端鉴权
+
 ```yaml
 services:
   derper:
@@ -63,8 +70,38 @@ services:
       - "3478:3478/udp"
     volumes:
       - /opt/derper/cert/:/cert/ # 证书目录
-      - /var/run/tailscale/tailscaled.sock:/var/run/tailscale/tailscaled.sock # 用于给私有DERP鉴权
+      - /var/run/tailscale/tailscaled.sock:/var/run/tailscale/tailscaled.sock:ro # 用于给私有DERP鉴权
     command: /derper -stun -a 0.0.0.0:443 -hostname <HOST> -certdir=/cert/ -certmode=manual -verify-clients
+```
+
+### 使用容器版本 Tailscale 鉴权
+
+```yaml
+services:
+  tailscale_client:
+    image: tailscale/tailscale:latest 
+    container_name: derper-tailscale-client
+    restart: unless-stopped
+
+    volumes:
+      - ./tailscale:/var/lib/tailscale
+    environment:
+      - TS_USERSPACE=true # 使用 userspace mode 以便无需映射 tun
+      - TS_STATE_DIR=/var/lib/tailscale
+      - TS_SOCKET=/var/lib/tailscale/run.sock # tailscaled socket
+
+  derper:
+    image: qctt/derper
+    container_name: derper
+    restart: unless-stopped
+    ports:
+      - "<PORT>:443"
+      - "3478:3478/udp"
+
+    volumes:
+      - /opt/derper/cert/:/cert/ # 证书目录
+      - ./tailscale/run.sock:/var/run/tailscale/tailscaled.sock:ro # 用于给私有DERP鉴权
+    command: /derper -stun -a 0.0.0.0:443 -http-port -1 -hostname <HOST> -certdir=/cert/ -certmode=manual -verify-clients
 ```
 
 ## 关于证书
