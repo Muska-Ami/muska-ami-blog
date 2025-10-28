@@ -69,7 +69,7 @@ services:
       - "<PORT>:443"
       - "3478:3478/udp"
     volumes:
-      - /opt/derper/cert/:/cert/ # 证书目录
+      - ./cert/:/cert/ # 证书目录
       - /var/run/tailscale/tailscaled.sock:/var/run/tailscale/tailscaled.sock:ro # 用于给私有DERP鉴权
     command: /derper -stun -a 0.0.0.0:443 -hostname <HOST> -certdir=/cert/ -certmode=manual -verify-clients
 ```
@@ -99,10 +99,12 @@ services:
       - "3478:3478/udp"
 
     volumes:
-      - /opt/derper/cert/:/cert/ # 证书目录
+      - ./cert/:/cert/ # 证书目录
       - ./tailscale/run.sock:/var/run/tailscale/tailscaled.sock:ro # 用于给私有DERP鉴权
     command: /derper -stun -a 0.0.0.0:443 -http-port -1 -hostname <HOST> -certdir=/cert/ -certmode=manual -verify-clients
 ```
+
+使用 `docker compose logs tailscale_client -f` 查看 Tailscale 客户端的日志获取登录链接进行授权，或者使用 `TS_AUTH_KEY` 来授权。
 
 ## 关于证书
 
