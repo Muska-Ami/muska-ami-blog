@@ -12,3 +12,5 @@ bun.lockb
 
 themes/*
 image/*
+
+.obsidian/
