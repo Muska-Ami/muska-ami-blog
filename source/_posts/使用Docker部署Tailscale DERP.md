@@ -125,7 +125,7 @@ services:
 
 ```sh
 mv /opt/derper/cert/fullchain.pem /opt/derper/cert/<HOST>.crt
-mv /opt/derper/cert/privkey.pem /opt/derper/cert/<PORT>.key
+mv /opt/derper/cert/privkey.pem /opt/derper/cert/<HOST>.key
 ```
 
 ## 启动 Derper 服务
