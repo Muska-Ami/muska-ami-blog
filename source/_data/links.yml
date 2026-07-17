@@ -4,10 +4,6 @@
     - name: zako.work 二级域名
       link: https://github.com/MuskaNet/zako.work
       description: zako.work 二级域名申请
-    - name: 乐青映射 - LoCyanFrp
-      link: https://www.locyanfrp.cn
-      description: 全公益的内网穿透服务
-      avatar: https://www.locyanfrp.cn/favicon.ico
 
 - links_category: 朋友们呀~
   has_thumbnail: false
@@ -16,10 +12,6 @@
       link: https://pangbai.work
       description: 摸鱼的旁白
       avatar: https://q1.qlogo.cn/g?b=qq&nk=1642981619&s=640
-    - name: 无知的错
-      link: https://www.wzdc.cc
-      description: welcome to my blog
-      avatar: https://www.wzdc.cc/avatar.png
     - name: ROYWANG
       link: https://roy.wang
       description: 知天命，懂因果
@@ -32,14 +24,14 @@
     #  link: https://wuzhuoyiblog404.cf
     #  description: Welcome To Wublog™
     #  avatar: https://file.wuzhuoyiblog404.cf/d/Pan/psc.png?sign=rf0o71urbZpz8Ly-HWKEloVEE7q_1fu1rqoMaiVUG-o=:0
-    - name: XM的小窝
-      link: https://kanokano.cn
-      description: 鹿友，经常会开坑忘填（划掉）のblog
-      avatar: https://cravatar.cn/avatar/c56b6f5018fec0dfe27cf32f7324c5b4?s=400
-    - name: Charles' Blog
-      link: https://blog.shanrenyi.top
-      description: 一个小白的Blog
-      avatar: https://thirdqq.qlogo.cn/g?b=sdk&k=Y4mYqPN4cvnMgsV26P5yqQ&kti=ZddzOQAAAAE&s=100&t=1674827794
+    # - name: XM的小窝
+    #   link: https://kanokano.cn
+    #   description: 鹿友，经常会开坑忘填（划掉）のblog
+    #   avatar: https://cravatar.cn/avatar/c56b6f5018fec0dfe27cf32f7324c5b4?s=400
+    # - name: Charles' Blog
+    #   link: https://blog.shanrenyi.top
+    #   description: 一个小白的Blog
+    #   avatar: https://thirdqq.qlogo.cn/g?b=sdk&k=Y4mYqPN4cvnMgsV26P5yqQ&kti=ZddzOQAAAAE&s=100&t=1674827794
     - name: 阿付の小破站
       link: https://afqaq.com
       description: 你也是一个正在追逐梦想的灵魂吗？
@@ -76,14 +68,14 @@
       link: https://khbit.cn/
       description: 一名Bug带师（不是
       avatar: https://cn.cravatar.com/avatar/c0c67928420f1ca7567ad555aeb50ed6
-    - name: 八蓝米科技
-      link: https://8mi.tech/
-      description: 八蓝米科技提供：BMCLAPI 助力加速，直播录像存储，不干人事，想整骚活
-      avatar: https://8mi.tech/favicon.ico
-    - name: Aehxy的个人小站
-      link: https://www.aehxy.com/
-      description: 若知是梦何须醒，不比真如一相会。
-      avatar: https://www.aehxy.com/wp-content/uploads/2024/02/avatar.jpg
+    # - name: 八蓝米科技
+    #   link: https://8mi.tech/
+    #   description: 八蓝米科技提供：BMCLAPI 助力加速，直播录像存储，不干人事，想整骚活
+    #   avatar: https://8mi.tech/favicon.ico
+    # - name: Aehxy的个人小站
+    #   link: https://www.aehxy.com/
+    #   description: 若知是梦何须醒，不比真如一相会。
+    #   avatar: https://www.aehxy.com/wp-content/uploads/2024/02/avatar.jpg
     - name: Bingxin Home
       link: https://byteloid.one/
       description: 好久不见
@@ -92,18 +84,18 @@
       link: https://hk47.cc/
       description: 小小世界-容纳百川
       avatar: https://hk47.cc/wp-content/uploads/2021/11/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F.jpg
-    - name: MoYuanCN's Blog
-      link: https://moyuancn.vip/
-      description: 如星星般闪耀
-      avatar: https://cdn-fusion.imgimg.cc/i/2024/40b61d0cab175f39.jpg
-    - name: pbr's pole
-      link: https://blog.kasetry.cn/
-      description: Just another penguin's blog
-      avatar: https://blog.kasetry.cn/upload/pbr.png
-    - name: 沙雕的Blog
-      link: https://blog.sdbit.net.cn/
-      description: 哈喽~欢迎光临
-      avatar: https://apac-cloudflare-r2-img.1l1.icu/2024/10/03/66fd79ecf3f1c.webp
+    # - name: MoYuanCN's Blog
+    #   link: https://moyuancn.vip/
+    #   description: 如星星般闪耀
+    #   avatar: https://cdn-fusion.imgimg.cc/i/2024/40b61d0cab175f39.jpg
+    # - name: pbr's pole
+    #   link: https://blog.kasetry.cn/
+    #   description: Just another penguin's blog
+    #   avatar: https://blog.kasetry.cn/upload/pbr.png
+    # - name: 沙雕的Blog
+    #   link: https://blog.sdbit.net.cn/
+    #   description: 哈喽~欢迎光临
+    #   avatar: https://apac-cloudflare-r2-img.1l1.icu/2024/10/03/66fd79ecf3f1c.webp
     - name: DoctoR’s blog
       link: https://rxw2023-github-io.pages.dev/
       description: before my body is dry
