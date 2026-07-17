@@ -19,20 +19,20 @@ tags:
 
 根据你实际放置的位置来，我的是 `\EFI\refind`，将这两个文件拷到里面即可。
 
-![效果](https://apac-cloudflare-r2-img.1l1.icu/2025/06/23/6858674a75107.webp)
+![效果](https://cf-r2-bucket-images.amaicat.work/2025/06/23/6858674a75107.webp)
 
 ### 复制 rEFInd 的可启动项文件
 
 复制一份 rEFInd 的可启动项文件，比如我的是 `refind_x64.efi`，复制成 `loader.efi`。
 
-![效果](https://apac-cloudflare-r2-img.1l1.icu/2025/06/23/685867a356642.webp)
+![效果](https://cf-r2-bucket-images.amaicat.work/2025/06/23/685867a356642.webp)
 
 ### 添加 UEFI BIOS 启动项
 
 DiskGenius 菜单栏，`工具` -> `设置UEFI BIOS启动项` 添加一个新的启动项，路径为刚才复制过去的 `PreLoader.efi`。
 将启动项移动到最顶上（第一个启动的），保存。
 
-![效果](https://apac-cloudflare-r2-img.1l1.icu/2025/06/23/68586819c57a3.webp)
+![效果](https://cf-r2-bucket-images.amaicat.work/2025/06/23/68586819c57a3.webp)
 
 ### 重启设备，进入 BIOS 设置
 

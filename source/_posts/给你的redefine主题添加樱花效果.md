@@ -72,7 +72,7 @@ inject:
 
 > 注：这个脚本把樱花图像转为 `base64/png` 存在脚本里，不如上面的用 css 样式实现文件体积那么小。
 > 如果觉得内嵌不好可以下载原图后手动修改脚本 `img.src = "<url>"` 的属性，替换为自己的图片链接即可。
-> 原图：![sakura](https://pan.1l1.icu/f/5eXTJ/sakura.png)
+> 原图：![sakura](https://pan.amaicat.work/f/5eXTJ/sakura.png)
 
 ### JSAPI
 
@@ -99,7 +99,7 @@ inject:
 
 > 注：这个脚本把樱花图像转为 `base64/png` 存在脚本里，不如上面的用 css 样式实现文件体积那么小。
 > 如果觉得内嵌不好可以下载原图后手动修改脚本 `img.src = "<url>"` 的属性，替换为自己的图片链接即可。
-> 原图：![sakura](https://pan.1l1.icu/f/5eXTJ/sakura.png)
+> 原图：![sakura](https://pan.amaicat.work/f/5eXTJ/sakura.png)
 
 ### JSAPI
 

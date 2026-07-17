@@ -14,7 +14,7 @@ info:
   # Author name
   author: 夏沫花火zzz🌙 (Muska_Ami)
   # Site URL
-  url: https://blog.1l1.icu
+  url: https://blog.amaicat.work
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -185,8 +185,8 @@ navbar:
     Status:
       icon: fa-regular fa-chart-bar
       submenus:
-        服务监控: https://status.1l1.icu
-        # 服务器监控(过时): https://svs.1l1.icu
+        服务监控: https://status.amaicat.work
+        # 服务器监控(过时): https://svs.amaicat.work
     # About:
     #   icon: fa-regular fa-user
     #   submenus:
@@ -325,7 +325,7 @@ comment:
       clientSecret: 5c5eeb51779c3ee1f706cccd3feedb26e919ff31 # GitHub Application Client Secret
       repo: muska-ami-blog # GitHub repository
       owner: Muska-Ami # GitHub repository owner
-      proxy: https://cors-anywhere.1l1.icu/https%3A%2F%2Fgithub.com%2Flogin%2Foauth%2Faccess_token # CORS Proxy
+      proxy: https://cors-anywhere.amaicat.work/https%3A%2F%2Fgithub.com%2Flogin%2Foauth%2Faccess_token # CORS Proxy
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
       version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
@@ -371,7 +371,7 @@ inject:
   enable: true
   # Inject custom head html code
   head:
-    - <script data-swup-ignore-script src="https://im.1l1.icu"></script>
+    - <script data-swup-ignore-script src="https://im.amaicat.work"></script>
     - |-
       <link rel="stylesheet" href="/css/extra.css">
       <link rel="stylesheet" href="/css/cursor.css">
@@ -386,10 +386,10 @@ inject:
   # Inject custom footer html code
   footer:
     - |-
-      <a href="https://ipw.cn/ipv6webcheck/?site=blog.1l1.icu" title="本站支持IPv6访问" target="_blank"><img style="display:inline-block;vertical-align:middle" alt="本站支持IPv6访问" src="https://static.ipw.cn/icon/ipv6-s4.svg"></a>
+      <a href="https://ipw.cn/ipv6webcheck/?site=blog.amaicat.work" title="本站支持IPv6访问" target="_blank"><img style="display:inline-block;vertical-align:middle" alt="本站支持IPv6访问" src="https://static.ipw.cn/icon/ipv6-s4.svg"></a>
       <br>
     - |-
-      <div title="MySSL 安全签章" id="myssl_seal" onclick="window.open('https://myssl.com/seal/detail?domain=blog.1l1.icu','MySSL安全签章','height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no')" style="text-align: center; display: inline-block; vertical-align: middle;"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=blog.1l1.icu" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>
+      <div title="MySSL 安全签章" id="myssl_seal" onclick="window.open('https://myssl.com/seal/detail?domain=blog.amaicat.work','MySSL安全签章','height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no')" style="text-align: center; display: inline-block; vertical-align: middle;"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=blog.amaicat.work" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>
     - |-
       <script src="/js/init.js"></script>
 # INJECT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end

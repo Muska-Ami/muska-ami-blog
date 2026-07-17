@@ -7,34 +7,34 @@ tags:
   - 乐青映射
   - Frp
 ---
-![NyaLCF Banner](https://pan.1l1.icu/f/J3VsZ/NyaLCF%20-%202.png)
+![NyaLCF Banner](https://pan.amaicat.work/f/J3VsZ/NyaLCF%20-%202.png)
 
 ### 轻量小巧，即开即用
 
 Nya LoCyanFrp! 基于 Flutter 框架开发，高性能低占用，即开即用，告别卡顿。
 Flutter 框架带来的超高性能，让每一帧动画都极致流畅。
 
-![P](https://pan.1l1.icu/f/RKvCd/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20123854.png)
-![P](https://pan.1l1.icu/f/2RWuE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20124433.png)
+![P](https://pan.amaicat.work/f/RKvCd/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20123854.png)
+![P](https://pan.amaicat.work/f/2RWuE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20124433.png)
 
 ### 启动什么的，轻松搞定
 
 Nya LoCyanFrp! 简化启动流程，无需手动设定配置文件，可自动获取配置文件启动隧道。同时，若您需要编辑配置文件，还可以自动获取预设配置文件，省时省力。
 
-![P](https://pan.1l1.icu/f/4ooFd/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20125151.png)
-![P](https://pan.1l1.icu/f/A3WUx/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20125208.png)
+![P](https://pan.amaicat.work/f/4ooFd/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20125151.png)
+![P](https://pan.amaicat.work/f/A3WUx/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20125208.png)
 
 ### 忘记面板网网址了？没关系
 
 Nya LoCyanFrp! 支持快速打开面板网址，通过右下角悬浮操作按钮，您可以一键打开 LoCyanFrp 管理面板。
 
-![P](https://pan.1l1.icu/f/bxrUJ/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20125658.png)
+![P](https://pan.amaicat.work/f/bxrUJ/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20125658.png)
 
 ### 跨平台可用
 
 Flutter 框架的跨平台优势使得 Nya LoCyanFrp! 可以轻松扩展到各个平台，目前 Nya LoCyanFrp! 已经支持 Windows, MacOS, Linux 系统，更多适配意见欢迎提交 Issues。
 
-![P](https://pan.1l1.icu/f/BJlsz/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20131553.png)
+![P](https://pan.amaicat.work/f/BJlsz/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-03%20131553.png)
 
 ### 开源，省心
 

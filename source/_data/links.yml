@@ -95,7 +95,7 @@
     # - name: 沙雕的Blog
     #   link: https://blog.sdbit.net.cn/
     #   description: 哈喽~欢迎光临
-    #   avatar: https://apac-cloudflare-r2-img.1l1.icu/2024/10/03/66fd79ecf3f1c.webp
+    #   avatar: https://cf-r2-bucket-images.amaicat.work/2024/10/03/66fd79ecf3f1c.webp
     - name: DoctoR’s blog
       link: https://rxw2023-github-io.pages.dev/
       description: before my body is dry

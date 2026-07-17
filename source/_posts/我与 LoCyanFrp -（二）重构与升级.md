@@ -64,7 +64,7 @@ SakuraPanel 本身实现了一套齐全的公共 Frp 方案，但是在实际接
 但是你这接口我看了强迫症啊，刚好我涉猎过 Java 和 Kotlin，于是干脆自己动手改了。
 这一改又是重构，原来的代码看的令人红温（
 
-![红温了xd](https://apac-cloudflare-r2-img.1l1.icu/2024/12/04/674fee45aacaf.webp)
+![红温了xd](https://cf-r2-bucket-images.amaicat.work/2024/12/04/674fee45aacaf.webp)
 
 于是我又把每个接口的代码从参数传入到鉴权全部重写了一遍，改的那叫一个头大，顺便实现了几个一直没有的接口。
 此外 API 文档和 Minecraft 联机功能也是我写的，约等于一个人把前后端全改完了，还写了份文档（byd 累死了

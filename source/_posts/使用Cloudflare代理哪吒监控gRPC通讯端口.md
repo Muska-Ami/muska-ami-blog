@@ -16,7 +16,7 @@ tags:
 ### 开启Cloudflare gRPC连接功能
 
 前往 `你的账户` -> `网站` -> `你的域名` -> `网络` -> `gRPC` 开启gRPC连接功能
-![gRPC](https://apac-cloudflare-r2-img.1l1.icu/2024/05/02/66328e47e2a60.webp)
+![gRPC](https://cf-r2-bucket-images.amaicat.work/2024/05/02/66328e47e2a60.webp)
 
 ### 配置反向代理
 
@@ -26,10 +26,10 @@ nginx配置文件
 server {
     listen 443 ssl http2;
     listen [::]:443 ssl http2;
-    server_name bound-in-svs.1l1.icu; # 你的 Agent 连接 Dashboard 的域名
+    server_name bound-in-svs.amaicat.work; # 你的 Agent 连接 Dashboard 的域名
     
-    ssl_certificate /www/sites/bound.in.svs.1l1.icu/ssl/fullchain.pem;   # 你的证书路径
-    ssl_certificate_key /www/sites/bound.in.svs.1l1.icu/ssl/privkey.pem; # 你的私钥路径
+    ssl_certificate /www/sites/bound.in.svs.amaicat.work/ssl/fullchain.pem;   # 你的证书路径
+    ssl_certificate_key /www/sites/bound.in.svs.amaicat.work/ssl/privkey.pem; # 你的私钥路径
     ssl_stapling on;
     ssl_session_timeout 1d;
     ssl_session_cache shared:SSL:10m; # 此项可能会和其他配置文件冲突，如冲突请注释此项
@@ -66,7 +66,7 @@ vim /opt/nezha/dashboard/data/config.yaml
 将下面的信息修改为你的连接地址
 
 ```yaml
-GRPCHost: in.svs.1l1.icu # 请改为自己的地址
+GRPCHost: in.svs.amaicat.work # 请改为自己的地址
 GRPCPort: 443
 ```
 
@@ -77,15 +77,15 @@ GRPCPort: 443
 举个例子：
 
 ```sh
-curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh install_agent in.svs.1l1.icu 443 <TOKEN>
+curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh install_agent in.svs.amaicat.work 443 <TOKEN>
 ```
 
 如果是手动安装的Agent，验证是否成功：
 
 ```sh
 cd /opt/nezha/agent # 打开存放Agent的目录
-./nezha-agent -s in.svs.1l1.icu:443 -p <TOKEN> -d # 加上 -d 这个参数输出日志
+./nezha-agent -s in.svs.amaicat.work:443 -p <TOKEN> -d # 加上 -d 这个参数输出日志
 ```
 
 如果配置成功可以看到正常连接了
-![Connected](https://apac-cloudflare-r2-img.1l1.icu/2024/05/02/66328e490b8af.webp)
+![Connected](https://cf-r2-bucket-images.amaicat.work/2024/05/02/66328e490b8af.webp)

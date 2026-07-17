@@ -7,10 +7,10 @@ type: links
 欢迎添加本站友链，申请格式及本站信息如下：
 
 - 名称：夏沫花火zzz🌙 (Muska_Ami)のLife
-- 链接：[https://1l1.icu](https://1l1.icu)
+- 链接：[https://amaicat.work](https://amaicat.work)
 - 介绍：Keep doing,keep loving.
-- 头像：[https://blog.1l1.icu/images/avatar.jpg](https://blog.1l1.icu/images/avatar.jpg)
-    <img src="https://blog.1l1.icu/images/avatar.jpg" style="width: 100px;height:100px">
+- 头像：[https://blog.amaicat.work/images/avatar.jpg](https://blog.amaicat.work/images/avatar.jpg)
+    <img src="https://blog.amaicat.work/images/avatar.jpg" style="width: 100px;height:100px">
 
 要求：
 

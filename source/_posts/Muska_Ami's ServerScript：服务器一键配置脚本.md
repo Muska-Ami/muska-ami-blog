@@ -13,11 +13,11 @@ tags:
 - Neo/Fast/Hyfetch
 - Tailscale组网
 - 1Panel安装
-- 哪吒监控Agent安装（自动使用 `https://proxy-gh.1l1.icu` 镜像）
+- 哪吒监控Agent安装（自动使用 `https://proxy-gh.amaicat.work` 镜像）
 - 更多功能...
 
 ```sh
 #apt update
 #apt install curl -y
-curl https://install.1l1.icu/linux_setup.sh -o setup && bash setup
+curl https://install.amaicat.work/linux_setup.sh -o setup && bash setup
 ```
