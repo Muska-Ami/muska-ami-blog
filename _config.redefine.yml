@@ -359,9 +359,9 @@ footer:
   customize:
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
-    enable: false # Whether to enable
-    number: 浙ICP备2024084850号-2 # ICP record number
-    url: https://beian.miit.gov.cn/ # ICP record url
+    enable: true # Whether to enable
+    number: Made with ❤  # ICP record number
+    url: # ICP record url
 # FOOTER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -387,6 +387,7 @@ inject:
   footer:
     - |-
       <script src="/js/init.js"></script>
+      <br />
 # INJECT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
