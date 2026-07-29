@@ -54,4 +54,4 @@ dont_scan_volumes Windows
 
 ## 效果
 
-![效果](https://cf-r2-bucket-images.amaicat.work/2024/05/02/66328cca03751.webp)
+![效果](https://eo-r2-bucket-images.amaicat.work/2024/05/02/66328cca03751.webp)
