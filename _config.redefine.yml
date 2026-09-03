@@ -379,10 +379,10 @@ inject:
       <link rel="stylesheet" href="/css/sakura.min.css">
     - |-
       <script data-swup-ignore-script src="/js/sakura.min.js"></script>
-      <script data-swup-ignore-script src="/js/toastify.js"></script>
       <script data-swup-ignore-script src="/js/clickEffect.js"></script>
-    - |-
-      <script data-swup-ignore-script src="/js/devtoolsChecker.js"></script>
+    # <script data-swup-ignore-script src="/js/toastify.js"></script>
+    # - |-
+    #   <script data-swup-ignore-script src="/js/devtoolsChecker.js"></script>
   # Inject custom footer html code
   footer:
     - |-
