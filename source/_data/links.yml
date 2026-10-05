@@ -140,6 +140,14 @@
       link: https://qiuxiaotao.com/
       description: 嗨，别来无恙啊！
       avatar: https://qiuxiaotao.com/avatar.jpg
+    - name: 启涵的小破站
+      link: https://qihanx.cn/
+      description: 最慢的步伐不是跬步，而是徘徊；最快的脚步不是冲刺，而是坚持。
+      avatar: https://qihanx.cn/favicon.png
+    - name: KK9小窝
+      link: https://www.kk9.org.cn/
+      description: 给时光以生命，给岁月以文明
+      avatar: https://image.kk9.org.cn/i/2026/02/03/Original-Logo.png
 
 - links_category: 组织/团体
   has_thumbnail: false
@@ -148,10 +156,10 @@
       link: https://spcraft.cn/
       description: Keep loving.
       avatar: https://spcraft.cn/favicon.ico
-    - name: MSMP
-      link: 
-      description: bruh
-      avatar: https://s2.loli.net/2023/07/04/IqXuD2V67iSzvjy.png
+    - name: maincore
+      link: https://maincore.work
+      description: maincore tech.
+      avatar: https://s2.loli.net/2024/06/22/2DuQoJMtd1GjfcP.png
 
 - links_category: 其他
   has_thumbnail: false
